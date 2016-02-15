@@ -1,14 +1,16 @@
 # Permalinks
 #
 # I'm not sure what pretty permalinks does
-# permalink:           pretty
+permalink:           pretty
 
 # Setup
+version: 1
 title:               Briandk.com
 tagline:             'Computing Education Research'
 description:         ''
 # url:                 http://briandk.github.io
 baseurl:             ''
+
 
 # About/contact
 author:
