@@ -18,4 +18,7 @@ author:
   url:               https://twitter.com/capbri
   email:             ''
 
-
+# jekyll plugins
+gems: [
+  jekyll-gist
+]
