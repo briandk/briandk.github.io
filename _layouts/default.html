@@ -24,7 +24,10 @@
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle" value=checked></label>
+    <label for="sidebar-checkbox"
+           class="sidebar-toggle"
+           value="checked">
+    </label>
 
     <script>
       (function(document) {
@@ -41,9 +44,12 @@
 
           checkbox.checked = false;
         }, false);
+        // Show sidebar by default on Homepage
+        checkbox.checked = true
+        {% unless page.title =="Home" %}
+          checkbox.checked = false
+        {% endunless %}
 
-        // Display sidebar by default
-        checkbox.checked = true;
       })(document);
     </script>
   </body>
