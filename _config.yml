@@ -1,0 +1,19 @@
+# Permalinks
+#
+# I'm not sure what pretty permalinks does
+# permalink:           pretty
+
+# Setup
+title:               Briandk.com
+tagline:             'Computing Education Research'
+description:         ''
+# url:                 http://briandk.github.io
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Brian Danielak
+  url:               https://twitter.com/capbri
+  email:             ''
+
+
