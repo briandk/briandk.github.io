@@ -1,7 +1,5 @@
 ---
 layout: default
-permalink: ":year/:month/:day/:title"
-author: "Brian A. Danielak"
 ---
 
 <div class="post">
@@ -16,7 +14,7 @@ author: "Brian A. Danielak"
     {% for post in site.related_posts limit:3 %}
       <li>
         <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
+          <a href="{{ post.url }}">
             {{ post.title }}
             <small>{{ post.date | date_to_string }}</small>
           </a>
