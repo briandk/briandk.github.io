@@ -8,19 +8,16 @@ guid: http://briandk.com/?page_id=2
 ---
 ## Brian Danielak
 
-<table style="width: auto;" border="0">
-  <tr>
-    <td>
-      <a href="/images/self-portrait/highres_308897642.jpg"><img src="/images/self-portrait/highres_308897642.jpg" width="300px" alt="" data-recalc-dims="1" /></a>
-    </td>
-    <td>
-      [Talking about CodeTimeline](https://speakerdeck.com/briandk/codetimeline-at-madison-hack-and-tell) at Madison Hack and Tell on November 13, 2013
-    </td>
-  </tr>
-  <tr>
 
-  </tr>
-</table>
+<figure>
+  <img src="/images/self-portrait/highres_308897642.jpg" 
+  width="300px" 
+  alt="Talking about CodeTimeline at Madison Hack and Tell on November 13, 2013" 
+  data-recalc-dims="1" />
+  <figcaption>Talking about <a href="https://speakerdeck.com/briandk/codetimeline-at-madison-hack-and-tell">CodeTimeline</a> at Madison Hack and Tell on November 13, 2013</figcaption>
+  </figure>
+
+
 
 ## Contact Info:
 
