@@ -12,12 +12,22 @@ My friend [Adam](http://alloy-d.net/) took a screenshot of Safari running on his
 
 This color-changing behavior struck both of us as weird, because Adam sent me a static _screenshot_. The only explanation we could come up with was that in the screenshot Adam took, OS X included some alpha channel information for the safari window itself.
 
-To test our guess, we both fired up Preview.app, opened the screenshot, and captured how it looked when we adjusted Preview&#8217;s &#8220;Window background&#8221; setting:<figure id="attachment_103" style="width: 300px" class="wp-caption alignnone">
+To test our guess, we both fired up Preview.app, opened the screenshot, and captured how it looked when we adjusted Preview&#8217;s &#8220;Window background&#8221; setting:
+<figure id="attachment_103">
 
-[<img src="http://i0.wp.com/BrianDK.com/wp-content/uploads/2014/10/Preview_app_settings-300x148.png?fit=300%2C148" alt="In Preferences you can change the default background color of Preview windows." class="size-medium wp-image-103" srcset="http://i2.wp.com/BrianDK.com/wp-content/uploads/2014/10/Preview_app_settings.png?resize=300%2C148 300w, http://i2.wp.com/BrianDK.com/wp-content/uploads/2014/10/Preview_app_settings.png?w=462 462w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](http://i2.wp.com/BrianDK.com/wp-content/uploads/2014/10/Preview_app_settings.png)<figcaption class="wp-caption-text">In Preferences you can change the default background color of Preview windows.</figcaption></figure>
+  <img
+    src="/wp-content/uploads/2014/10/Preview_app_settings.png"
+    alt="In Preferences you can change the default background color of Preview windows." class="size-medium wp-image-103">
+</figure>
 
-With a background set to white, the Safari window itself appears light, with well-defined delineations to visually separate tab titles. When we switched the background color to black, the Safari window darkened considerably, and tab delineations were much harder to spot. Curiously, changing the background color in Preview didn&#8217;t affect how the underlying wallpaper in the screenshot (in this case, flowers) looked at all. The background color change only affected the Safari window, which itself was in focus.<figure id="attachment_104" style="width: 300px" class="wp-caption alignnone">
+With a background set to white, the Safari window itself appears light, with well-defined delineations to visually separate tab titles. When we switched the background color to black, the Safari window darkened considerably, and tab delineations were much harder to spot. Curiously, changing the background color in Preview didn&#8217;t affect how the underlying wallpaper in the screenshot (in this case, flowers) looked at all. The background color change only affected the Safari window, which itself was in focus.
+<figure id="attachment_104">
 
-[<img src="http://i1.wp.com/BrianDK.com/wp-content/uploads/2014/10/2014-10-20-yosemite-screenshot-translucency-300x225.jpg?fit=300%2C225" alt="screenshot showing that in Preview.app with a black background color, the Safari window appears dark; in Preview.app with a white background, the Safari window appears light" class="size-medium wp-image-104" srcset="http://i0.wp.com/BrianDK.com/wp-content/uploads/2014/10/2014-10-20-yosemite-screenshot-translucency.jpg?resize=300%2C225 300w, http://i0.wp.com/BrianDK.com/wp-content/uploads/2014/10/2014-10-20-yosemite-screenshot-translucency.jpg?w=1024 1024w" sizes="(max-width: 300px) 85vw, 300px" data-recalc-dims="1" />](http://i0.wp.com/BrianDK.com/wp-content/uploads/2014/10/2014-10-20-yosemite-screenshot-translucency.jpg)<figcaption class="wp-caption-text">screenshot showing that in Preview.app with a black background color, the Safari window appears dark; in Preview.app with a white background, the Safari window appears light</figcaption></figure>
+  <img
+    src="wp-content/uploads/2014/10/2014-10-20-yosemite-screenshot-translucency.jpg"
+    alt="screenshot showing that in Preview.app with a black background color, the Safari window appears dark; in Preview.app with a white background, the Safari window appears light"
+    class="size-medium wp-image-104">
+
+</figure>
 
 This behavior isn&#8217;t necessarily &#8220;bizarre,&#8221; though it did for awhile have me convinced of some kind of hidden voodoo when I [viewed the image on my iPad](https://vimeo.com/109505755).
