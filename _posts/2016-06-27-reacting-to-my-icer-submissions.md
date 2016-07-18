@@ -1,6 +1,7 @@
 ---
 title: My coauthor Wil Doane and I are open-sourcing our ICER 2016 submissions.
 date: 2016-07-18
+layout: post
 sass:
     sass_dir: _sass
 ---
