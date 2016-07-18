@@ -14,10 +14,10 @@ My coauthor [Wil Doane][4] and I are open-sourcing our ICER 2016 submissions. Fo
     - The ICER 2016 guidelines for reviewers
 - A link to a discussion issue, where I warmly invite you to leave feedback and start conversations
 
-Title/Repository | Download (PDF) | Join the Conversation
+Title | Download (PDF) | Join the Conversation
 ----- | ------------ | ---------------------
-Reconstructing design thinking and learning through code snapshots and clinical interviews	| [**Download It!**][1]	| [**Discuss It!**](https://github.com/TLPLEngineeringEdResearch/icer-2016-rebecca-manuscript/issues/3)
-Expanding Models of Cognition within Computing Education Research	| [**Download It!**][2]	| [**Discuss It!**](https://github.com/TLPLEngineeringEdResearch/icer-2016-theoretical-argument/issues/4)
+Reconstructing design thinking and learning through code snapshots and clinical interviews ([Source](https://github.com/briandk/icer-2016-rebecca-manuscript))	| [**Download It!**][1]	| [**Discuss It!**](https://github.com/TLPLEngineeringEdResearch/icer-2016-rebecca-manuscript/issues/3)
+Expanding Models of Cognition within Computing Education Research ([Source](https://github.com/briandk/icer-2016-theoretical-argument))	| [**Download It!**][2]	| [**Discuss It!**](https://github.com/TLPLEngineeringEdResearch/icer-2016-theoretical-argument/issues/4)
 
 ### Why am I doing this?
 
