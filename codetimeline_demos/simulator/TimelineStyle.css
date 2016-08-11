@@ -1,0 +1,70 @@
+td {
+  vertical-align: top;
+}
+
+.compileroutput {
+  background: #cccccc;
+  border: 1px ridge #999999;
+  white-space: pre-wrap;
+  font-family: monospace;
+  display: block;
+}
+
+.codesnapshot {
+  line-height: 1.5em;
+}
+
+.timestamp {
+  font-size: 75% !important;
+}
+
+.shaLink {
+  font-size: 75% !important;
+}
+
+/* Changing styles for x-ray mode */
+code.xray {
+  color: gray !important;
+}
+
+code.xray > span {
+  background: green;
+}
+
+/* Ensuring the typeahead dropdowns aren't obscured by the navbar */
+.typeahead.dropdown-menu {
+  z-index: 2000;
+}
+
+/* Making the search boxes full height for the navbar */
+#shaSearch {
+  height: 100%;
+}
+
+.pad-body-for-navbar {
+  padding-top: 50px;
+}
+
+#pager {
+  margin-bottom: 1.5% !important;
+  margin-top: 3% !important;
+}
+
+/* Zooming */
+
+table {
+  -webkit-transition: -webkit-transform 0.5s ease-in-out;
+  -moz-transition: -moz-transform       0.5s ease-in-out;
+  -o-transition: -o-transform           0.5s ease-in-out;
+
+  -webkit-transform-origin: top left;
+  -ms-transform-origin: top left;
+  -moz-transform-origin: top left;
+  -o-transform-origin: top left;
+}
+
+.snapshotMetadata {
+  -webkit-transition: font-size 0.1s ease-in-out;
+  -moz-transition: font-size    0.1s ease-in-out;
+  -o-transition: font-size      0.1s ease-in-out;
+}
