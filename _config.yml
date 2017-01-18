@@ -19,6 +19,6 @@ author:
   email:             ''
 
 # jekyll plugins
-gems: [
-  jekyll-gist
-]
+gems:
+  - jekyll-feed
+  - jekyll-gist
