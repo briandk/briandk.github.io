@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Reflections on the First Day of Class for CMSE 201 Spring 2017
+author: Brian A. Danielak
 date: 2017-01-09
+layout: post
 categories:
   - cmse201
   - spring2017
