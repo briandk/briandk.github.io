@@ -18,6 +18,10 @@ author:
   url:               https://twitter.com/capbri
   email:             ''
 
+# Markdown options
+kramdown:
+    auto_ids: true # make ids for each header
+
 # jekyll plugins
 gems:
   - jekyll-feed
