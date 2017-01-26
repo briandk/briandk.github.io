@@ -30,12 +30,4 @@ Questions can include, but are not limited to:
 - If I could do one thing to change/improve this plot, what would it be?
 - If this wasn't the picture/plot I wanted to make, how would I describe the thing I **meant** to make?
 
-```js
-const myModule = require('./foo')
-```
-
-```python
-''.join('fester')
-```
-
 #cmse201
