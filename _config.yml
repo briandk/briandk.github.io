@@ -1,26 +1,13 @@
-# Permalinks
-#
-# I'm not sure what pretty permalinks does
-permalink:           pretty
-
-# Setup
-version: 1
-title:               Briandk.com
-tagline:             'Computing Education Research'
-description:         ''
-# url:                 http://Briandk.com
-baseurl:             ''
-
-
-# About/contact
-author:
-  name:              Brian Danielak
-  url:               https://twitter.com/capbri
-  email:             ''
-
 # Markdown options
+markdown: kramdown
+highlighter: rouge
 kramdown:
     auto_ids: true # make ids for each header
+    input: GFM
+
+redcarpet:
+  extensions:
+    - "autolink"
 
 # jekyll plugins
 gems:
