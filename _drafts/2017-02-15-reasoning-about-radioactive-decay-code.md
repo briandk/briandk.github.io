@@ -8,4 +8,12 @@ categories: cmse201 spring2017
 
 # Reasoning about radioactive decay modeling in code
 
-![whiteboard](/assets/asset.jpg)
+## Whiteboard photos
+
+![whiteboard1](/assets/2017-02-15-reasoning-about-agent-based-decay-programs/asset.jpg)
+![whiteboard2](/assets/2017-02-15-reasoning-about-agent-based-decay-programs/asset-2.jpg)
+![whiteboard3](/assets/2017-02-15-reasoning-about-agent-based-decay-programs/asset-3.jpg)
+
+![whiteboard4](/assets/2017-02-15-reasoning-about-agent-based-decay-programs/asset-4.jpg)
+![whiteboard5](/assets/2017-02-15-reasoning-about-agent-based-decay-programs/asset-5.jpg)
+![whiteboard6](/assets/2017-02-15-reasoning-about-agent-based-decay-programs/asset-6.jpg)
