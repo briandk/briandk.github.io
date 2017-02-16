@@ -8,4 +8,4 @@ categories: cmse201 spring2017
 
 # Reasoning about radioactive decay modeling in code
 
-![whiteboard](../assets/asset.jpg)
+![whiteboard](/assets/asset.jpg)
